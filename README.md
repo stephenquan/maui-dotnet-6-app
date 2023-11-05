@@ -1,0 +1,1 @@
+# maui-dotnet-6-app
